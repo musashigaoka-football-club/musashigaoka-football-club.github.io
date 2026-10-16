@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>武蔵丘サッカー部 戦績録</title>
+  <link>https://musashigaoka-football-club.github.io/</link>
+  <description>都立武蔵丘高校サッカー部の公式戦の記録。2004年度からの大会とリーグ戦の結果を、年度ごとに振り返る。</description>
+  <language>ja</language>
+  <lastBuildDate>Wed, 14 Oct 2026 12:00:00 +0900</lastBuildDate>
+  <item>
+   <title>新企画「数字で読む武蔵丘」。見込みを上回った入学の年</title>
+   <link>https://musashigaoka-football-club.github.io/musashigaoka.html#analysis</link>
+   <guid isPermaLink="false">2026-10-14-6</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>試合前の見込み、相手の強さ、得点と失点を都内の全校と同じ物差しで測る分析を始めた。この代の大会19試合は見込み10.7勝に対して11勝。2次予選に届く線まで、あと76点。あわせて記事を3年間・6年間の単位にそろえ、2021〜2023年度にもトーナメント表を入れ、色を1stユニフォームのエンジ基調に改めた。</description>
+  </item>
+  <item>
+   <title>地区リーグ 35試合の結果を反映</title>
+   <link>https://musashigaoka-football-club.github.io/book.html</link>
+   <guid isPermaLink="false">2026-10-14-5</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>大森学園C 6-2 芝、日体大荏原B 5-1 立正大立正、東京実業C 9-0 雪谷、東洋 6-2 美原B、麻布 4-2 九段中等教育、ほか30試合。内訳は第6地区リーグU-18 2部A 9、第3地区ユースリーグ 1部 8、第6地区リーグU-18 2部B 6、4地区ユースリーグ 1部 3、4地区ユースリーグ 3部B 2、第3地区ユースリーグ 2部A 2、DUOリーグ グループA 1、DUOリーグ グループB 1、DUOリーグ グループC 1、第3地区ユースリーグ 2部B 1、第6地区リーグU-18 3部A 1。</description>
+  </item>
+  <item>
+   <title>Tリーグ 2試合の結果を反映</title>
+   <link>https://musashigaoka-football-club.github.io/book.html</link>
+   <guid isPermaLink="false">2026-10-14-4</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>国学院久我山C 3-0 国分寺、実践学園C 1-2 アローレU18。内訳はTリーグ T4 1、Tリーグ T5 1。</description>
+  </item>
+  <item>
+   <title>NSリーグ 杉並ソシオB戦を5-0</title>
+   <link>https://musashigaoka-football-club.github.io/index.html#league</link>
+   <guid isPermaLink="false">2026-10-14-3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>10/11のNSリーグ2部A、杉並ソシオフットボールクラブB戦を5-0で制した。これでリーグは7試合6勝1分0敗、21得点4失点。無敗で首位を守っている。結果は部員からの報告による（goalnote は未更新）。</description>
+  </item>
+  <item>
+   <title>選手権2次予選 2回戦の結果を反映</title>
+   <link>https://musashigaoka-football-club.github.io/seeds.html</link>
+   <guid isPermaLink="false">2026-10-14-2</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>10/11・12の2回戦16試合の結果を取り込んだ。武蔵丘を破った城東は、点数で上回る国分寺を1-0で破り、3回戦へ進んでいる。</description>
+  </item>
+  <item>
+   <title>全記事を書き直し、見た目を新しくした</title>
+   <link>https://musashigaoka-football-club.github.io/index.html</link>
+   <guid isPermaLink="false">2026-10-14-1</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0900</pubDate>
+   <description>武蔵丘を日本代表に見立てた大会後記の視点で、全年度の記事を書き直した。色は武蔵丘のユニフォームの白・エンジ・紺にそろえた。</description>
+  </item>
+ </channel>
+</rss>
